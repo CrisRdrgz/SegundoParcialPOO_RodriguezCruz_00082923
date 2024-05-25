@@ -1,0 +1,3 @@
+interface Departamento {
+    void mostrarInfo();
+}
